@@ -1,6 +1,6 @@
 <div align="center">
 
-# Igor Masset de Oliveira
+# Igor Mazeti de Oliveira
 
 ### Full Stack Developer • Web • Mobile • Data & AI
 
